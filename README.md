@@ -1,3 +1,3 @@
 # Piano App
 
-Live View [Here](https://paino-app.herokuapp.com/).
+Live View [Here](https://4umrmate.github.io/piano-quiz/).
